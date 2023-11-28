@@ -38,12 +38,14 @@ ul {
     margin-right: auto;
     font-size: 24px;
     color: #f9faf8;
+    font-weight: bold;
 }
 
 .header{
     flex: 0 1 66%;
     display: flex;
     justify-content: center;
+    align-items: flex-end;
     padding: 12px;
     gap: 12px;
 }
